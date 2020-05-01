@@ -1,0 +1,5 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch10/EXTicTacToe/bin/Debug/EXTicTacToe.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch10/EXTicTacToe/bin/Debug/EXTicTacToe.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch10/EXTicTacToe/obj/anycpu/Debug/EXTicTacToe.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch10/EXTicTacToe/obj/anycpu/Debug/EXTicTacToe.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA220/Projects/Ch10/EXTicTacToe/obj/anycpu/Debug/EXTicTacToe.pdb
